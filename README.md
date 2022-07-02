@@ -43,7 +43,7 @@ Back-End: Django
 - posts can have pictures
 
 
-### Demo
+## Demo
 
 <!-- ![Image 1](images/01.png)
 ![Image 2](images/02.png)
