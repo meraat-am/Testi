@@ -1,1 +1,66 @@
-# Testi
+[![Contributors][contributors-shield]][contributors-url]
+[![Forks][forks-shield]][forks-url]
+[![Stargazers][stars-shield]][stars-url]
+[![Issues][issues-shield]][issues-url]
+[![MIT License][license-shield]][license-url]
+
+
+# Torob
+## Internet Engineering Spring 2022 Course Project
+#### Aida Aminian
+
+#### Fateme Ahsan
+
+## Technologies
+Front-End: ReactJS
+
+Back-End: Django
+
+
+## Project Main Features
+- registering account
+- checking password and email to satisfy the format
+- sign in and sign out
+- creating community
+- creating a post in a community
+- adding admins to a community or removing them
+- admins can ban members from commenting or posting
+- joining to communities or left from them
+- viewing posts from communities
+- sorting post by time or number of likes or number of comments
+- viewing the hottest communities
+- leaving a comment for posts
+- replying to comments
+- like and dislike any post or comment
+- searching a post or community or member
+- sorting search results
+- using the pagination for results if there are many
+- light theme and dark theme
+- saving post button
+- Jalali date for posts and comments
+- reporting a post
+- secure against XSS and SQL injection and CSRF attacks
+- posts can have pictures
+
+
+### Demo
+
+<!-- ![Image 1](images/01.png)
+![Image 2](images/02.png)
+![Image 3](images/03.png)
+![Image 4](images/04.png)
+![Image 5](images/05.png)
+![Image 6](images/06.png) -->
+
+<!-- MARKDOWN LINKS & IMAGES -->
+<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
+[contributors-shield]: https://img.shields.io/github/contributors/aidaaminian/Torob.svg?style=for-the-badge
+[contributors-url]: https://github.com/aidaaminian/Torob/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/aidaaminian/Torob.svg?style=for-the-badge
+[forks-url]: https://github.com/aidaaminian/Torob/network/members
+[stars-shield]: https://img.shields.io/github/stars/aidaaminian/Torob.svg?style=for-the-badge
+[stars-url]: https://github.com/aidaaminian/Torob/stargazers
+[issues-shield]: https://img.shields.io/github/issues/aidaaminian/Torob.svg?style=for-the-badge
+[issues-url]: https://github.com/aidaaminian/Torob/issues
+[license-shield]: https://img.shields.io/github/license/aidaaminian/Torob.svg?style=for-the-badge
+[license-url]: https://github.com/aidaaminian/Torob/blob/master/LICENSE.txt
