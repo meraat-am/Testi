@@ -6,15 +6,16 @@
 
 
 # Torob
-## Internet Engineering Spring 2022 Course Project
-#### Aida Aminian
+Internet Engineering Spring 2022 Course Project
 
-#### Fateme Ahsan
+#### Authors
+- Aida Aminian
+- Fateme Ahsan
+
 
 ## Technologies
-Front-End: ReactJS
-
-Back-End: Django
+- Front-End: ReactJS
+- Back-End: Django
 
 
 ## Project Main Features
@@ -37,7 +38,7 @@ Back-End: Django
 - changing email and phone number
 - adding existing products to the shop
 - creating new products and adding to the shop
-- creating new shop
+- creating new shops
 - viewing reports of shop
 
 
