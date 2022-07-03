@@ -76,7 +76,6 @@ If you have a suggestion that would make this better, please fork the repo and c
 4. Push to the Branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-
 [contributors-shield]: https://img.shields.io/github/contributors/aidaaminian/Torob.svg?style=for-the-badge
 [contributors-url]: https://github.com/aidaaminian/Torob/graphs/contributors
 [forks-shield]: https://img.shields.io/github/forks/aidaaminian/Torob.svg?style=for-the-badge
@@ -86,4 +85,4 @@ If you have a suggestion that would make this better, please fork the repo and c
 [issues-shield]: https://img.shields.io/github/issues/aidaaminian/Torob.svg?style=for-the-badge
 [issues-url]: https://github.com/aidaaminian/Torob/issues
 [license-shield]: https://img.shields.io/github/license/aidaaminian/Torob.svg?style=for-the-badge
-[license-url]: https://github.com/aidaaminian/Torob/blob/master/LICENSE.txt
+[license-url]: https://github.com/aidaaminian/Torob/blob/main/LICENSE
