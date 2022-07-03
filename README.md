@@ -76,8 +76,7 @@ If you have a suggestion that would make this better, please fork the repo and c
 4. Push to the Branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-<!-- MARKDOWN LINKS & IMAGES -->
-<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
+
 [contributors-shield]: https://img.shields.io/github/contributors/aidaaminian/Torob.svg?style=for-the-badge
 [contributors-url]: https://github.com/aidaaminian/Torob/graphs/contributors
 [forks-shield]: https://img.shields.io/github/forks/aidaaminian/Torob.svg?style=for-the-badge
