@@ -61,7 +61,6 @@ Back-End: Django
 ![Image 15](images/15.PNG)
 ![Image 16](images/16.PNG)
 ![Image 17](images/17.PNG)
-![Image 18](images/18.PNG)
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
