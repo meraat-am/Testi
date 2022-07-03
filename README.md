@@ -18,29 +18,28 @@ Back-End: Django
 
 
 ## Project Main Features
+
+
 - registering account
-- checking password and email to satisfy the format
-- sign in and sign out
-- creating community
-- creating a post in a community
-- adding admins to a community or removing them
-- admins can ban members from commenting or posting
-- joining to communities or left from them
-- viewing posts from communities
-- sorting post by time or number of likes or number of comments
-- viewing the hottest communities
-- leaving a comment for posts
-- replying to comments
-- like and dislike any post or comment
-- searching a post or community or member
-- sorting search results
-- using the pagination for results if there are many
-- light theme and dark theme
-- saving post button
-- Jalali date for posts and comments
-- reporting a post
-- secure against XSS and SQL injection and CSRF attacks
-- posts can have pictures
+- checking the format of password and email
+- login and logout
+- searching products
+- viewing products based on category, subcategory or brand
+- filtering products based on cost
+- sorting products by newest, highest price or lowest price
+- viewing product details
+- viewing products shop details
+- reporting shop products
+- adding products to favorites
+- removing products from favorites
+- viewing favorites
+- viewing recent visits
+- changing email and phone number
+- adding existing products to the shop
+- creating new products and adding to the shop
+- creating new shop
+- viewing reports of shop
+
 
 
 ## Demo
